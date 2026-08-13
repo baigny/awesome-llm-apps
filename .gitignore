@@ -4,8 +4,6 @@ __pycache__/
 *.pyo
 
 # Environment files
-.env
-.env.local
 
 # Virtual environments
 venv/
@@ -19,3 +17,4 @@ dist/
 
 # JetBrains IDEs
 .idea/
+config.bat
